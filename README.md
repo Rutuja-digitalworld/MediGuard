@@ -21,7 +21,4 @@ The main objective of MediGuard is to make preliminary healthcare assistance mor
 ## 🚀 Live Demo
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-MediGuard-brightgreen?style=for-the-badge)](https://mediguard-chi.vercel.app/)
-
-## 🎥 Project Demo
-
-[![Watch Project Demo](https://img.shields.io/b)]()
+youtube video link :https://youtu.be/-8dqeJ8VQjQ
